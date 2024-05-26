@@ -1,0 +1,13 @@
+﻿Flask==2.0.3
+requests==2.27.1
+python-dotenv==0.19.2
+openai==0.27.8
+pytz==2023.3
+tiktoken==0.4.0
+re
+logging
+mysql-connector-python==8.0.28
+janome==0.4.2
+langchain==0.0.331
+numpy==1.21.2
+scikit-learn==0.24.2
